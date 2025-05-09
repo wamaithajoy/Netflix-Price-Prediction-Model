@@ -23,7 +23,7 @@ This project focuses on predicting Netflix stock prices using time series techni
 ## Full Documentation
 For detailed methodology, feature descriptions, model architecture, challenges, and results:
 
-[Read the full project report here](https://docs.google.com/document/d/your-doc-id-here)  
+[Read the full project report here](https://docs.google.com/document/d/13WLBwqZokgZMbOqWPaD5vb9KvBpqkiG6Ho1n7fg6u9c/edit?usp=sharing)  
 
 ## Repo Contents
 - `Group_project.ipynb` – Main Colab notebook
